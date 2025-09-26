@@ -14,6 +14,5 @@ Lessons learned:
 * Basic Workflow git <-> Github
 
 
-	Das ist meine Aenderung von Noah Zopf
 
-
+     Aenderungen durchgefuehrt
